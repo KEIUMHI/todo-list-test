@@ -9,7 +9,9 @@ body {
   background: url('../images/bg.jpg');
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   font-size: 14px;
   color: #4d4d4d;
   font-weight: 300;
 }
+

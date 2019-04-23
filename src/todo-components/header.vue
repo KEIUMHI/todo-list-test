@@ -10,8 +10,8 @@
 }
 .main-header h1 {
   font-size: 100px;
-  color: rgba(175,47, 47, 0.4);
-  font-weight: 100;
+  color: rgba(175, 47, 47, 0.55);
+  font-weight: 200;
   margin: 20px;
 }
 </style>
